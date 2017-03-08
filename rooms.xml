@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+	<group id = "group room 1">
+	    <roomName>South 201</roomName>
+	    <location>South Stacks Level 2</location>
+	    <info>Self-scheduled study room with standard tables and chairs</info>
+	    <additional>has a whiteboard and a video player</additional>
+	</group>
+	<group id = "group room 2">
+	    <roomName>South 202</roomName>
+	    <location>South Stacks Level 2</location>
+	    <info>Self-scheduled study room with standard tables and chairs</info>
+	    <additional>has a whiteboard</additional>
+	</group>
+	<group id = "group room 3">
+	    <roomName>South 203</roomName>
+	    <location>South Stacks Level 2</location>
+	    <info>Self-scheduled study room with standard tables and chairs</info>
+	    <additional>has a whiteboard and a video player</additional>
+	</group>
+	<group id = "group room 4">
+	    <roomName>South 204</roomName>
+	    <location>South Stacks Level 2</location>
+	    <info>Self-scheduled study room with standard tables and chairs</info>
+	    <additional>has a whiteboard</additional>
+	</group>
+	<group id = "group room 5">
+	    <roomName>South 501</roomName>
+	    <location>South Stacks Level 5</location>
+	    <info>Self-scheduled study room with soft seating</info>
+	    <additional>has a whiteboard and a video player</additional>
+	</group>
+	<group id = "group room 6">
+	    <roomName>South 502</roomName>
+	    <location>South Stacks Level 5</location>
+	    <info>Self-scheduled study room with soft seating</info>
+	    <additional>has a whiteboard</additional>
+	</group>
+	<group id = "group room 7">
+	    <roomName>South 503</roomName>
+	    <location>South Stacks Level 5</location>
+	    <info>Self-scheduled study room with soft seating</info>
+	    <additional>has a whiteboard</additional>
+	</group>
+	<group id = "group room 8">
+	    <roomName>South 504</roomName>
+	    <location>South Stacks Level 5</location>
+	    <info>Self-scheduled study room with soft seating</info>
+	    <additional>has a whiteboard</additional>
+	</group>
+	<group id = "group room 9">
+		<roomName>MEWS Collaborative Room A</roomName>
+	    <location>1st floor of Dwight Hall</location>
+	    <info>Self-scheduled group study rooms</info>
+	    <additional>has a large screen and laptop connection</additional>
+	</group>
+	<group id = "group room 10">
+		<roomName>MEWS Collaborative Room D</roomName>
+	    <location>1st floor of Dwight Hall</location>
+	    <info>Self-scheduled group study rooms</info>
+	    	<additional>has a large screen and laptop connection</additional>
+	</group>
+	<meeting id = "meeting room 1">
+		<roomName>Library 418</roomName>
+		<location>4th floor of the LITS Complex</location>
+		<info>Seats 15 to 20</info>
+		<additional>Includes whiteboard, computer and projection</additional>
+	</meeting>
+	<meeting id = "meeting room 2">
+		<roomName>Library 419</roomName>
+		<location>4th floor of the LITS Complex</location>
+		<info>Seats 15 to 20</info>
+		<additional>Includes whiteboard, computer and projection</additional>
+	</meeting>
+	<meeting id = "meeting room 3">
+		<roomName>Library 618</roomName>
+		<location>6th floor of the South Stacks</location>
+		<info>Seats 15 to 20</info>
+		<additional>Includes whiteboard, computer and projection</additional>
+	</meeting>
+</library>
+
